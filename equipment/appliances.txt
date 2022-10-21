@@ -1,3 +1,6 @@
 macbook
 ipad
 iphone
+dishwasher
+        dryer
+        etc.
