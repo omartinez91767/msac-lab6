@@ -3,4 +3,5 @@ ipad
 iphone
 dishwasher
         dryer
-        etc.
+      microwave
+      nesspresso machine
